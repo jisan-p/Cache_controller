@@ -6,7 +6,7 @@ An interactive, step-by-step cache simulator written in **Rust**. It models a wr
 
 ## FSM Diagram
 
-![Cache Controller FSM](https://github.com/user-attachments/assets/257faa7e-8938-4f14-ac71-37bb6f756107)
+![Cache Controller FSM](https://github.com/user-attachments/assets/ed5d85fe-eca8-40ec-8ed9-81bf0ffbb4bd)
 
 ---
 
