@@ -1,0 +1,51 @@
+lw 0
+lw 4
+lw 8
+lw 12
+lw 16
+sw 10 0
+lw 0
+sw 25 8
+lw 8
+lw 12
+sw 99 32
+lw 32
+lw 36
+lw 40
+lw 44
+nop
+lw 0
+lw 1
+lw 2
+lw 3
+sw 7 3
+lw 3
+sw 128 64
+lw 64
+lw 68
+lw 72
+lw 76
+sw 255 128
+lw 128
+lw 132
+lw 136
+nop
+lw 136
+lw 140
+lw 144
+sw 42 136
+lw 136
+lw 140
+sw 1 0
+lw 0
+lw 2048
+sw 512 2048
+lw 2048
+lw 2052
+lw 2056
+nop
+sw 999 4096
+lw 4096
+lw 4100
+lw 0
+lw 8
