@@ -1,4 +1,4 @@
-#BUILD and RUN
+# BUILD and RUN
 ```bash
 cargo run <test.txt file>
 ```
